@@ -1,0 +1,1 @@
+ In this project, I track my work done on learning the JS language.
